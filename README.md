@@ -1,4 +1,4 @@
-- 👋 Hi, Human
+- 👋 Hi, I'm Human
 - 👀 I’m interested in solutions that solves real problems that are faced by real humans
 - 🌱 I’m currently learning how to yodle
 - 💞️ I’m looking to collaborate on any project that solve a real problem faced by real humans
